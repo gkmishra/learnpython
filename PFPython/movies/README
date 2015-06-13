@@ -1,3 +1,13 @@
+Project Details
+====================
+This project will create a web page and add some movie details and its trailers. Movie trailer can be watched by clicking on each movie
 
+How to Run
+===================
+python entertainment.py
 
-
+Help about the code
+==========================
+entertainment.py : main file where all the instances of movies are created, and function to generate                  equivalent html is called. 
+fresh_tomatoes.py : Code which generates the html, and creates main file fresh_tomatoes.html which ca                  n be opened in browser
+media.py : Class that provides the blueprint for Movie
